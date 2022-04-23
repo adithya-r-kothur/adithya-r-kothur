@@ -2,7 +2,7 @@
 - 👀 I’m interested in compitative programming
 - 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me adithya.r.ark@gmail.com
+- 📫 How to reach me adithya.r.kothur@gmail.com
 
 <!---
 adithya-r-kothur/adithya-r-kothur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
