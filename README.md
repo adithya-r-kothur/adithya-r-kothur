@@ -15,7 +15,7 @@ I'm adithya from India , I aspire to be Grand master on Codeforces
 * Solutions to UVA olnine judge
 * Codeforces solutions
 * Codechef solutions 
-* 450 important solution to crack any FAANG interview
+* Solution to 450 important questions to crack any FAANG interview
 
 
 
