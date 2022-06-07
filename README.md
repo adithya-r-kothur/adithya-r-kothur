@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me adithya.r.kothur@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya.r.Kothur)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-r-kothur)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 adithya-r-kothur/adithya-r-kothur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
