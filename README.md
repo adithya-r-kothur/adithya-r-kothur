@@ -6,6 +6,9 @@ I'm adithya from India , I aspire to be Grand master on Codeforces
 
 ## Skills and Experience
 * C++
+* Discrete Math
+* Java Script
+
 
 
 - 🔭 I’m currently working on this page. 
