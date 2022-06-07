@@ -4,6 +4,10 @@
 # Adithya r kothur
 I'm adithya from India , I aspire to be Grand master on Codeforces
 
+## Skills and Experience
+* C++
+
+
 - 🔭 I’m currently working on this page. 
 
 
