@@ -29,3 +29,7 @@ I'm Adithya from India , I aspire to be Grand master on Codeforces
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-r-kothur)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-r-kothur&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
