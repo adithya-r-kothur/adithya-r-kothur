@@ -34,6 +34,5 @@ I'm Adithya from India , I aspire to be Grand master on Codeforces
 
 
 
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adithya-r-kothur)](https://github.com/anuraghazra/github-readme-stats)
 
