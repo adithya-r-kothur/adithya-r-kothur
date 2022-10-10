@@ -1,10 +1,10 @@
 
 
 
-# Adithya r kothur
-I'm Adithya from India , I aspire to be Grand master on Codeforces
+# Hi there, I'm Adithya r kothur
+##i'm an competitive programmer and ROS developer
 
-## Skills and Experience
+### Skills and Experience
 * C++
 * Discrete Math
 * Python
@@ -12,7 +12,7 @@ I'm Adithya from India , I aspire to be Grand master on Codeforces
 
 
 
-## What's on my Github
+### What's on my Github
 * Solutions to UVA olnine judge
 * Codeforces solutions
 * Codechef solutions 
