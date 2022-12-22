@@ -2,14 +2,13 @@
 
 
 # Hi there, I'm Adithya r kothur
-## i'm an competitive programmer and ROS developer
+## i'm an competitive programmer 
 
 
 ### Learning 
-* ROS
+* DSA
 * Discret math
-* Gazebo
-* GQIS
+
 
 
 
