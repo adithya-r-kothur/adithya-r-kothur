@@ -21,8 +21,9 @@
 ### What's on my Github
 * Solutions to UVA olnine judge
 * Codeforces solutions
-* Codechef solutions 
-* Solution to 450 important questions to crack any FAANG interview
+* Codeforces-Cosistency-Helper(chrome extension)
+* Codeforces-Analyzer(Django website)
+* Leetcode solutions
 
 
 ### Connect with me 
