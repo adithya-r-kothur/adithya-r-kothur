@@ -30,7 +30,7 @@
 ### Connect with me 
 <a href="https://www.linkedin.com/in/adithya-r-kothur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya r kothur" height="30" width="40" /></a>
 
-Check Resume [Here]([https://drive.google.com/file/d/180B0GtsKGNbaBW57eSs9UVOYwICCwtGr/view?usp=share_link](https://drive.google.com/file/d/1fqhe3-9srjqKxIvDNBAjZ4eDZ4wr992g/view?usp=share_link))
+Check Resume [Here](https://drive.google.com/file/d/1fqhe3-9srjqKxIvDNBAjZ4eDZ4wr992g/view?usp=share_link)
 
 
 
