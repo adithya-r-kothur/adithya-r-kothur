@@ -2,12 +2,13 @@
 
 
 # Hi there, I'm Adithya r kothur
-## i'm an competitive programmer 
+## I'm an competitive programmer and a Python developer
 
 
 ### Learning 
 * DSA
 * Discret math
+* Machine learning
 
 
 
