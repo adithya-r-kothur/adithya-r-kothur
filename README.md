@@ -41,7 +41,7 @@ Check Resume [Here](http://surl.li/gmbrf)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-r-kothur)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-r-kothur&show_icons=true&theme=transparent)
 
 
 
