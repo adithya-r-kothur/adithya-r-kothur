@@ -22,7 +22,7 @@
 ### Connect with me 
 <a href="https://www.linkedin.com/in/adithya-r-kothur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya r kothur" height="30" width="40" /></a>
 
-Check Resume [Here](https://shorturl.at/enxI2)
+Check Resume [Here](https://drive.google.com/file/d/1v_UfHf7gUSeX2CZOwyAG-9ElKJ7r_Sb8/view?usp=sharing)
 
 
 
